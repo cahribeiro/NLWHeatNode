@@ -67,14 +67,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork cahribeiro/chat-node
+$ gh repo fork cahribeiro/NLWHeatNode
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone cahribeiro/chat-node && cd chat-node
+$ git clone cahribeiro/NLWHeatNode && cd NLWHeatNode
 
 # Create a branch with your feature
 $ git checkout -b my-feature
