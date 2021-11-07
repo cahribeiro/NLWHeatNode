@@ -39,7 +39,7 @@ Technologies that I used to develop this project
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/cahribeiro/NLWHeatNode.git && cd chat-node
+$ git clone https://github.com/cahribeiro/NLWHeatNode.git && cd NLWHeatNode
 ```
 
 **Follow the steps below**
